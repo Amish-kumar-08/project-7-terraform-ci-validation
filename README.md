@@ -1,4 +1,4 @@
-
+![Terraform CI](https://github.com/Amish-kumar-08/project-7-terraform-ci-validation/actions/workflows/terraform-ci.yml/badge.svg)
 # **Project 7: CI Validation for Terraform**
 
 ## **Description**
